@@ -1,0 +1,17 @@
+psycopg2-binary
+python-dateutil
+pandas
+numpy
+pyarrow
+# PostgreSQL provider
+apache-airflow-providers-postgres
+
+# Microsoft Azure providers
+apache-airflow-providers-google
+
+# Optional: Additional Azure libraries if needed
+great-expectations
+
+
+# Great Expectations provider for Airflow
+#apache-airflow-providers-great-expectations

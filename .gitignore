@@ -1,0 +1,9 @@
+single_infra/servicekey.json
+venv
+.terraform/
+terraform.tfvars
+.env
+logs/
+sales_db.dump
+single_infra/.terraform
+config/

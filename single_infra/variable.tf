@@ -6,6 +6,7 @@ variable "location" {
 }
 variable "force_destroy" {
   type = bool
+  default = true
 }
 variable "lifecycle_rule_age" {
   type = number
@@ -21,4 +22,8 @@ variable "project_id" {
 }
 variable "credentials" {
   type = string
+}
+variable "public_access_prevention" {
+  type = string
+  default = "enforced"
 }
