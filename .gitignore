@@ -7,3 +7,4 @@ logs/
 sales_db.dump
 single_infra/.terraform
 config/
+.cache.sqlite

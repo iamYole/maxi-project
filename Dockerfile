@@ -1,4 +1,4 @@
-FROM apache/airflow:3.0.2-python3.10
+FROM apache/airflow:3.0.3
 # Use the official Airflow image as a base
 USER root
 

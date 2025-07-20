@@ -3,14 +3,20 @@ python-dateutil
 pandas
 numpy
 pyarrow
+python-dotenv
+google-cloud-storage
+sqlalchemy<2.0
+openmeteo-requests
+requests-cache
+retry-requests
 # PostgreSQL provider
-apache-airflow-providers-postgres
+# apache-airflow-providers-postgres
 
 # Microsoft Azure providers
-apache-airflow-providers-google
+# apache-airflow-providers-google
 
 # Optional: Additional Azure libraries if needed
-great-expectations
+# great-expectations
 
 
 # Great Expectations provider for Airflow
